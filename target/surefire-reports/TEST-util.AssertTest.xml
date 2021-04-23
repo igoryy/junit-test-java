@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="service.LocacaoServiceTest" time="0.02" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="util.AssertTest" time="0" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2020.3.2"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -60,5 +60,5 @@
     <property name="java.vendor.version" value="AdoptOpenJDK"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="service.LocacaoServiceTest" name="teste" time="0.02"/>
+  <testcase classname="util.AssertTest" name="test" time="0"/>
 </testsuite>
